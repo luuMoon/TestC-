@@ -46,6 +46,8 @@ public class ValueVsReference : MonoBehaviour {
 	{
 		rOnly1 = 1;
 	}
+
+
 	void Start () 
 	{
 		
